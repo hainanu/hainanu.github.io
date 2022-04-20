@@ -1,1 +1,1 @@
-![](https://github.com/hainanu/hainanu.github.io/blob/main/imgs/AD1B242D65D5E34315024968DB1EDE3F.jpg)
+![](/imgs/AD1B242D65D5E34315024968DB1EDE3F.jpg)
